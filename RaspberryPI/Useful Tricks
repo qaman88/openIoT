@@ -1,0 +1,8 @@
+#### Read on board temperature:
+# Terminal:
+$ alias temp='/opt/vc/bin/vcgencmd measure_temp'
+$ temp
+$ cat /sys/class/thermal/thermal_zone0/temp
+# Python:
+tempC = int(open('/sys/class/thermal/thermal_zone0/temp').read()) / 1e3
+

@@ -1,0 +1,24 @@
+Circuit: * C:\Users\Tlamangile Ngobeni\Desktop\openIoT\LTSpice\demo_circuit\LT1001_TA10.asc
+
+WARNING: Node OUT is floating.
+
+WARNING: Less than two connections to node OUT.  This node is used by C1.
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Mar 18 20:13:56 2021
+Total elapsed time: 0.331 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2960
+traniter = 2931
+tranpoints = 1296
+accept = 1214
+rejected = 82
+matrix size = 21
+fillins = 38
+solver = Normal
+Matrix Compiler1:     183 opcodes  1.9/[1.1]/1.4
+Matrix Compiler2: off  [0.8]/1.0/0.9
+

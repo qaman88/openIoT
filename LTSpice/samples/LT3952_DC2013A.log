@@ -1,0 +1,30 @@
+Circuit: * C:\Users\Tlamangile Ngobeni\Desktop\openIoT\LTSpice\samples\LT3952_DC2013A.asc
+
+Warning: Multiple definitions of model "aons66402" Type: Vdmos1
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 10
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+Gmin = 10
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Ignoring empty pin current: Ix(u1:18)
+Ignoring empty pin current: Ix(u1:19)
+Ignoring empty pin current: Ix(u1:21)
+Ignoring empty pin current: Ix(u1:22)
+Ignoring empty pin current: Ix(u1:18)
+Ignoring empty pin current: Ix(u1:19)
+Ignoring empty pin current: Ix(u1:21)
+Ignoring empty pin current: Ix(u1:22)
